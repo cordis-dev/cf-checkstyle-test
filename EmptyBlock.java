@@ -1,5 +1,5 @@
 public class EmptyBlock {
-  public class test1(){
+  public void test1(){
     if(optimistic)
       {
       }
@@ -8,7 +8,7 @@ public class EmptyBlock {
       }
   }
   
-    public class test2(){
+  public void test2(){
     if(optimistic)
       {
         message = "half full";
