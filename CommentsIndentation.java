@@ -10,7 +10,7 @@ public class CommentsIndentation{
     double d = 3.14;
   }
   
-  public void test1()
+  public void test2()
   {
     // comment at the same identation level
     boolean bool = true;
