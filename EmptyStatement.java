@@ -11,6 +11,7 @@ public class EmptyStatement{
     doSomething();
     while (condition)
     {
+       /** intentionally empty */
     }
   }
 }
