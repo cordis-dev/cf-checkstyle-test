@@ -33,6 +33,7 @@
         </module>
         <module name="OneTopLevelClass"/>
         <module name="NoLineWrap"/>
+              <module name="NoLineWrap2"/>
         <module name="TestLineWrap"/>
         <module name="EmptyBlock">
             <property name="option" value="TEXT"/>
